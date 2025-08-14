@@ -1,0 +1,124 @@
+# Asistente de Presupuestos HDL - .gitignore
+
+# Dependencias
+node_modules/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Builds y distribuciones
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Archivos de configuración sensibles
+.env
+.env.local
+.env.production
+config.json
+secrets.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Datos y uploads
+data/
+uploads/
+temp/
+tmp/
+
+# Base de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker
+.dockerignore
+
+# Certificados SSL
+*.pem
+*.key
+*.crt
+ssl/
+
+# Backups
+*.backup
+*.bak
+backup/
+
+# Cache
+.cache/
+.npm/
+.yarn/
+.pnpm-store/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.venv
+env/
+ENV/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de sistema
+*.pid
+*.seed
+*.pid.lock
+
+# Archivos de desarrollo
+.eslintcache
+.stylelintcache
+
+# Archivos de producción específicos
+production.env
+staging.env
+
+# Archivos de monitoreo
+monitoring/
+metrics/
+
+# Archivos de testing
+test-results/
+screenshots/
+videos/
+

@@ -1,0 +1,27 @@
+.
+./backend
+./backend/src
+./backend/src/database
+./backend/src/models
+./backend/src/routes
+./backend/src/services
+./backend/src/static
+./config
+./docs
+./frontend
+./frontend/public
+./frontend/src
+./frontend/src/assets
+./frontend/src/components
+./frontend/src/components/ui
+./frontend/src/hooks
+./frontend/src/lib
+./frontend/src/services
+./scripts
+=== ARCHIVOS PRINCIPALES ===
+./.gitignore
+./ARCHITECTURE.md
+./INSTALL.md
+./LICENSE
+./PROJECT_STRUCTURE.txt
+./README.md
