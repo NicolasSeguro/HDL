@@ -1,8 +1,8 @@
-# Asistente Inteligente de Presupuestos - Corralón HDL
+# Asistente Inteligente - HDL
 
 Sistema completo de asistente conversacional para generar presupuestos de materiales de construcción, con integración a APIs HDL Zomatik y panel de administración.
 
-## 🚀 Características Principales
+## 🚀 Características Principales (fase 1)
 
 - **🤖 Asistente Conversacional:** Chat inteligente que guía al usuario en la creación de presupuestos
 - **📊 Integración APIs HDL:** Conexión directa con el sistema HDL Zomatik para datos en tiempo real
@@ -164,8 +164,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 📞 Soporte
 
 Para soporte técnico o consultas:
-- Email: soporte@hdl.com.ar
-- Teléfono: (011) 4567-8900
+- email: nicolas.seguro@gmail.com
 
 ## 🔄 Versiones
 
